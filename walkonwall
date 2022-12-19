@@ -11552,4 +11552,3 @@ game:GetService("ContextActionService"):BindAction("Toggle", function(action, st
 		Controller.GetGravityUp = GetGravityUp
 	end
 end, false, Enum.KeyCode.Z)
-print("end")
